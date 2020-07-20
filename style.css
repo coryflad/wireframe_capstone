@@ -1,3 +1,29 @@
-div {
+h1 {
+    margin-top: 60px;
+  }
+  
+  div {
+    text-align: center;
     margin-bottom: 4px;
-}
+  }
+  
+  .sign-in {
+    border: 2px black solid;
+    margin-top: 40px;
+    padding: 0px 10px 40px 10px;
+    background-color: grey;
+  }
+  
+  .registration {
+    border: 2px black solid;
+    margin-top: 40px;
+    padding: 0px 10px 40px 10px;
+    background-color: grey;
+  }
+  
+  .landing-page {
+    border: 2px black solid;
+    margin-top: 40px;
+    padding: 40px 10px 40px 10px;
+    background-color: grey;
+  }
