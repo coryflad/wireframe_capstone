@@ -12,6 +12,7 @@ h1 {
     margin-top: 40px;
     padding: 0px 10px 40px 10px;
     background-color: grey;
+    width: 50%;
   }
   
   .registration {
@@ -19,6 +20,7 @@ h1 {
     margin-top: 40px;
     padding: 0px 10px 40px 10px;
     background-color: grey;
+     width: 50%;
   }
   
   .landing-page {
@@ -26,4 +28,5 @@ h1 {
     margin-top: 40px;
     padding: 40px 10px 40px 10px;
     background-color: grey;
+    width: 50%;
   }
